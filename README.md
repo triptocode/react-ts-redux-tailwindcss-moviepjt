@@ -22,7 +22,7 @@ React, TypeScript, Firebase, TailwindCSS, Redux Toolkit, i18next 등을 활용�
 | **품질 관리** | ESLint, TypeScript ESLint |
 
 ---
-
+<br>
 ## 📦 화면구현 3개 설명  
 
 ### 1. 로그인 이전 화면 ( i18next 다국어번역 메뉴버튼)
@@ -31,10 +31,12 @@ React, TypeScript, Firebase, TailwindCSS, Redux Toolkit, i18next 등을 활용�
 
 <img width="3837" height="2072" alt="1 화면3개" src="https://github.com/user-attachments/assets/74ab084c-82e0-4132-b1ac-973ef34a8fdb" />
 
+<br>
 ## 3-1. 로그인 이후 화면 더 자세히 설명  
 ### 첫 캐러셀 좌측 화살표 표기안함 / 한페이지 넘긴이후 좌측 화살표 표기 /
 <img width="3828" height="2069" alt="2 영어 한국어 다국어 api" src="https://github.com/user-attachments/assets/4414b7d8-fa40-491f-84c0-5bd9065cdfea" />
 
+<br>
 ## 3-2.  클릭한 영화 상세화면구현  
 <img width="1905" height="1901" alt="3 캐러셀 영화 상세화면" src="https://github.com/user-attachments/assets/ad619fcc-4168-4126-826a-b9d7fa6ba8fc" />
 
