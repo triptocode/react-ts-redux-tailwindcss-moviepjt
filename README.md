@@ -35,16 +35,15 @@ React, TypeScript, Firebase, TailwindCSS, Redux Toolkit, i18next 등을 활용�
   
 ## 3-1. 로그인 이후 화면 더 자세히 설명  
 
-###영화 목록을 캐러셀 형태로 제공
-###react-slick을 사용해 부드러운 슬라이드 UI 구현
-###첫 페이지에서는 좌측 화살표를 표시하지 않도록 처리
-###한 페이지 이동 후부터 좌측 화살표가 표시되도록 구현
+### 영화 목록을 캐러셀 형태로 제공
+🖥 화면 구현1. 로그인 이전 화면서비스 소개 및 진입 화면i18next를 활용한 다국어 번역 메뉴 버튼 제공언어 전환 시 한국어/영어 화면을 즉시 확인 가능2. 로그인 화면Firebase와 연동된 로그인 기능 구현이메일/비밀번호 기반 인증 지원인증 성공 시 메인 서비스 화면으로 이동3. 로그인 이후 화면영화 목록을 캐러셀 형태로 제공react-slick을 사용해 부드러운 슬라이드 UI 구현첫 페이지에서는 좌측 화살표를 표시하지 않도록 처리한 페이지 이동 후부터 좌측 화살표가 표시되도록 구현3-1. 영화 상세 화면클릭한 영화의 상세 정보를 확인할 수 있는 화면영화의 기본 정보와 예고편을 함께 제공사용자가 영화 정보를 더 직관적으로 탐색할 수 있도록 구성
 <img width="3828" height="2069" alt="2 영어 한국어 다국어 api" src="https://github.com/user-attachments/assets/4414b7d8-fa40-491f-84c0-5bd9065cdfea" />
 
 
   
 ## 3-2.  클릭한 영화 상세화면구현  
-<img width="1905" height="1901" alt="3 캐러셀 영화 상세화면" src="https://github.com/user-attachments/assets/ad619fcc-4168-4126-826a-b9d7fa6ba8fc" />
+<img width="1905" height="1901" alt="3 캐러셀 영화 상세
+  화면" src="https://github.com/user-attachments/assets/ad619fcc-4168-4126-826a-b9d7fa6ba8fc" />
 
 ## 📦 설치 및 실행 방법
 
