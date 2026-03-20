@@ -5,8 +5,6 @@ React, TypeScript, Firebase, TailwindCSS, Redux Toolkit, i18next 등을 활용�
 
 ---
 
-## 🚀 프로젝트 구현 기간 : 3일
-
 ## 🚀 주요 기술 스택
   
 | 구분  |           기술                     |
