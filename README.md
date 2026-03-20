@@ -34,7 +34,11 @@ React, TypeScript, Firebase, TailwindCSS, Redux Toolkit, i18next 등을 활용�
 
   
 ## 3-1. 로그인 이후 화면 더 자세히 설명  
-### 첫 캐러셀 좌측 화살표 표기안함 / 한페이지 넘긴이후 좌측 화살표 표기 /
+
+###영화 목록을 캐러셀 형태로 제공
+###react-slick을 사용해 부드러운 슬라이드 UI 구현
+###첫 페이지에서는 좌측 화살표를 표시하지 않도록 처리
+###한 페이지 이동 후부터 좌측 화살표가 표시되도록 구현
 <img width="3828" height="2069" alt="2 영어 한국어 다국어 api" src="https://github.com/user-attachments/assets/4414b7d8-fa40-491f-84c0-5bd9065cdfea" />
 
 
